@@ -228,10 +228,10 @@ p{
 }
 
 .box10000{
-    width: 1300px;
+    width: 1250px;
     height: 20px;
     background-color:blue;
-    margin-left: 500px;
+    margin-left: 550px;
     margin: auto;
 }
 .wa{
@@ -275,7 +275,7 @@ p{
     margin-top: 5px;
 }   
 .box10002{
-  width:140px;
+  width:130px;
   height:30px;
   background:red;
    text-align: center;
@@ -288,3 +288,18 @@ font-size: 10px;
 color:aliceblue;
 }
 
+.box10005{
+      width: 1250px;
+    height: 250px;
+        background-color:blue;
+      margin: auto;
+}
+.box10006{
+      width: 10000px;
+    height: 400px;
+        background-color:wheat;
+      margin: auto;
+}
+.yu{
+    color: aliceblue;
+}
